@@ -1,4 +1,8 @@
 /bytebank/bin
 /bytebank/.settings
-.classpath
-.project
+/bytebank-composto/bin
+/bytebank-composto/.settings
+/bytebank/.classpath
+/bytebank/.project
+/bytebank-composto/.classpath
+/bytebank-composto/.project
